@@ -1,7 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prism-Softworks/.github/blob/main/assets/Prism%20Softworks%20No%20Background.png?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prism-Softworks/.github/blob/master/assets/Prism%Softworks%No%Background.png?raw=true" />
   </picture>
+
 
   <h1>Prism</h1>
 
