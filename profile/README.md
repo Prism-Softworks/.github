@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prism-Softworks/.github/blob/master/assets/Prism%20Softworks%20No%20Background.png?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prism-Softworks/.github/blob/main/assets/Prism%20Softworks%20No%20Background.png?raw=true" />
   <img alt="Logo" width="200" src="https://github.com/Nebula-Softworks/.github/blob/master/assets/Nebula%20Softworks%20No%20Background%20Inverted.png?raw=true"/>
   </picture>
 
